@@ -32097,7 +32097,7 @@ var $async$aYq=A.x(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:if($.ar==null)A.b92()
 $.ar.toString
 q=3
-$.ua().gqa().m(0,"API_BASE_URL","https://api.learn-by-games.com/")
+$.ua().gqa().m(0,"API_BASE_URL","https://learnwithgames.hayatpoetry.com/")
 $.ua().gqa().m(0,"API_TIMEOUT","20")
 $.ua().gqa().m(0,"ENCRYPTION_KEY","YourSecretEncryptionKey32ByteLong")
 $.ua().gqa().m(0,"STRIPE_PUBLISHABLE_KEY","pk_test_your_stripe_publishable_key")
@@ -109815,7 +109815,7 @@ A.W3.prototype={
 fW(a){var s=0,r=A.w(t.H),q=this,p,o,n,m
 var $async$fW=A.x(function(b,c){if(b===1)return A.t(c,r)
 for(;;)switch(s){case 0:m=$.ua().gqa().h(0,"API_BASE_URL")
-if(m==null)m="https://api.learn-by-games.com/"
+if(m==null)m="https://learnwithgames.hayatpoetry.com/"
 p=t.N
 m=A.bj1(m,B.Xi,A.W(["Content-Type","application/json"],p,t.z),B.X9)
 o=new A.Y5(A.a([B.Tl],t.i6))
